@@ -69,4 +69,4 @@ You guessed it in 8 tries. The secret number was 591. Nice job!
 
 # Goal
 
-Сourse "Relational Database" freeCodeCamp.org, lesson "Number Guessing Game".
+Сourse "Relational Database" [freeCodeCamp.org](https://www.freecodecamp.org/learn/relational-database/), lesson "Number Guessing Game".
