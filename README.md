@@ -4,4 +4,4 @@
 
 <img src="certification.png" alt="certification" style="height: 380px;" />
 
-Завершающий курс проект - "Number Guessing Game".
+Завершающий курс проект - [Number Guessing Game](./number_guessing_game).
